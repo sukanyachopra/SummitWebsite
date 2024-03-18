@@ -1,0 +1,22 @@
+.media__form{
+    padding: 100px 40px 40px 40px;
+    align-items: center;
+}
+.media__form-container{
+    background-color: var(--bg-lighter);
+    padding: 60px 60px 60px 60px;
+}
+h2{
+    font-family: var(--font-heading);
+    font-size: 60px;
+    text-align: center;
+}
+.media__form-container-registration button{
+    background-color: var(--bg-color);
+}
+.media__form-container-registration form{
+    padding: 20px 40px 40px 40px;
+}
+#first_name,#email,#last_name{
+    border-radius: 18px;
+}

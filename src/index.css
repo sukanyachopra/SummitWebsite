@@ -1,0 +1,16 @@
+:root{
+  --bg-color: #07133d;
+  --bg-lighter: #004a98;
+  --font-heading: Charter;
+  --font-text: Helvetica;
+  --font-color: white;
+}
+.btn{
+  background-color: var(--bg-lighter);
+  padding: 10px 20px 10px 20px;
+  margin-right: 30px;
+  border: none;
+  font-size: 16px;
+  cursor: pointer;
+  color: white;
+}

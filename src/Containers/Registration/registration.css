@@ -1,0 +1,25 @@
+.media__registration-container{
+    margin-top: 70px;
+    display: flex;
+    margin-right: 150px;
+}
+.media__registration-container-Img{
+    -webkit-clip-path: circle(34% at 60% 50%);
+    clip-path: circle(34% at 60% 50%);
+    align-items: flex-start;
+    margin-left: 0;
+
+}
+.media__registration-container-content{
+    margin-top: 50px;
+}
+.media__registration-container-content h2{
+    font-family: var(--font-heading);
+    font-size: 60px;
+}
+.media__registration-container-content p{
+    font-family: var(--font-text);
+}
+.media__registration-container-content p button{
+    padding-top: 40px;
+}

@@ -1,0 +1,6 @@
+.btn btn-warning{
+    background-color: var(--bg-color);
+}
+.users__container{
+    padding: 100px 40px 40px 40px;
+}

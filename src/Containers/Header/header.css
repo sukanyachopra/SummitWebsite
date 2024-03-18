@@ -1,0 +1,24 @@
+.media__header{
+    background-image: url("../../img/building.png");
+    background-repeat: no-repeat;
+    height: 620px;
+    width: 100%;
+    background-attachment: scroll;
+}
+.media__header-container{
+    margin-left: 80px;
+}
+.media__header-container-heading h1{
+    font-family: var(--font-heading);
+    font-size: 100px;
+    margin-bottom: 15px;
+    padding-top: 150px;
+}
+.media__header-container-subtext{
+    font-family: var(--font-text);
+    text-transform: uppercase;
+    margin-bottom: 120px;
+}
+
+
+

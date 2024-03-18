@@ -1,0 +1,14 @@
+body {
+    background-color: var(--bg-color);
+    margin: auto;
+    color: var(--font-color);
+}
+.btn{
+    background-color: var(--bg-lighter);
+    padding: 10px 20px 10px 20px;
+    margin-right: 30px;
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+    color: white;
+}
