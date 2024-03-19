@@ -1,5 +1,5 @@
 {
-  "homepage": "https://sukanyachopra/SummitWebsite",
+  "homepage": "<https://sukanyachopra.github.io/SummitWebsite>",
   "name": "website",
   "version": "0.1.0",
   "private": true,
@@ -26,7 +26,7 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "copy-index" : "cp build/index.html index.html"
+    "copy-index": "cp build/index.html index.html"
   },
   "proxy": "http://localhost:3000",
   "eslintConfig": {
