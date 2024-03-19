@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/SummitWebsite/static/css/main.fcf3a434.css",
-    "main.js": "/SummitWebsite/static/js/main.0e3dd11e.js",
-    "static/media/building.png": "/SummitWebsite/static/media/building.90adac10a3f837caff98.png",
-    "static/media/footer.png": "/SummitWebsite/static/media/footer.ed926efa45849b1b9657.png",
-    "static/media/event.png": "/SummitWebsite/static/media/event.9882d7a588e23aaba181.png",
-    "static/media/about1.png": "/SummitWebsite/static/media/about1.1be44d3c292c880b7069.png",
-    "static/media/about2.png": "/SummitWebsite/static/media/about2.b1c4e4a534bb8a86533f.png",
-    "index.html": "/SummitWebsite/index.html",
-    "main.fcf3a434.css.map": "/SummitWebsite/static/css/main.fcf3a434.css.map",
-    "main.0e3dd11e.js.map": "/SummitWebsite/static/js/main.0e3dd11e.js.map"
+    "main.css": "/%3Chttps://sukanyachopra.github.io/SummitWebsite%3E/static/css/main.fc96dc04.css",
+    "main.js": "/%3Chttps://sukanyachopra.github.io/SummitWebsite%3E/static/js/main.41992979.js",
+    "static/media/building.png": "/%3Chttps://sukanyachopra.github.io/SummitWebsite%3E/static/media/building.90adac10a3f837caff98.png",
+    "static/media/footer.png": "/%3Chttps://sukanyachopra.github.io/SummitWebsite%3E/static/media/footer.ed926efa45849b1b9657.png",
+    "static/media/event.png": "/%3Chttps://sukanyachopra.github.io/SummitWebsite%3E/static/media/event.9882d7a588e23aaba181.png",
+    "static/media/about1.png": "/%3Chttps://sukanyachopra.github.io/SummitWebsite%3E/static/media/about1.1be44d3c292c880b7069.png",
+    "static/media/about2.png": "/%3Chttps://sukanyachopra.github.io/SummitWebsite%3E/static/media/about2.b1c4e4a534bb8a86533f.png",
+    "index.html": "/%3Chttps://sukanyachopra.github.io/SummitWebsite%3E/index.html",
+    "main.fc96dc04.css.map": "/%3Chttps://sukanyachopra.github.io/SummitWebsite%3E/static/css/main.fc96dc04.css.map",
+    "main.41992979.js.map": "/%3Chttps://sukanyachopra.github.io/SummitWebsite%3E/static/js/main.41992979.js.map"
   },
   "entrypoints": [
-    "static/css/main.fcf3a434.css",
-    "static/js/main.0e3dd11e.js"
+    "static/css/main.fc96dc04.css",
+    "static/js/main.41992979.js"
   ]
 }
